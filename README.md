@@ -44,4 +44,5 @@ Here is a simple example of how to use the interpreter:
    ```
 
 To get started, please **clone the repository** and **run lab.py**
-Then, **input your LISP program** and see the result.
+
+Then, **input your LISP program** and see the result. Enjoy!
